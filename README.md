@@ -15,6 +15,6 @@ Assignment Implementation Notes:
 
 7. Getting the other relationship between the column doubt category and the doubt resolution time as to which doubt category is taking more doubt resolution time through groupby query and barplot visualization for the specific course. 
 
-8. For False positive doubts or cleared doubts, TA was not required so the user rating is not given and the resolution time is minimal.
+8. For False positive doubts or cleared doubts, TA was not required so the resolution time is minimal.
 
 Extracted information and the inferential data have been dumped into the csv file generated through the python notebooks. Library Used: pandas, numpy, seaborn
